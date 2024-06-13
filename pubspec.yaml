@@ -15,9 +15,6 @@ flutter:
     - images/
     - favicons/
   fonts:
-    - family: misansl3
-      fonts:
-        - asset: fonts/mi-sans-l3.otf
     - family: nomnatong
       fonts:
         - asset: fonts/nom-na-tong.otf
