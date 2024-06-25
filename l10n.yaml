@@ -1,0 +1,6 @@
+use-escaping: true
+synthetic-package: false
+template-arb-file: app_vi.arb
+arb-dir: lib/locales/input
+output-dir: lib/locales/output
+output-localization-file: app_localizations.dart

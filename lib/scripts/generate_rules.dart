@@ -1,4 +1,4 @@
-part of 'scripts.src.dart';
+part of 'scripts.dart';
 
 /// Generate `rules.json`.
 void generateRules() async {
