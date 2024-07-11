@@ -15,13 +15,23 @@ dev_dependencies:
   flutter_lints: ^3.0.0
 
 flutter:
-  generate: true
-  uses-material-design: true
   assets:
     - icons/
     - images/
     - favicons/
   fonts:
+    - family: misansl3
+      fonts:
+        - asset: ../assets/fonts/mi-sans-l3.otf
     - family: nomnatong
       fonts:
-        - asset: fonts/nom-na-tong.otf
+        - asset: ../assets/fonts/nom-na-tong.otf
+    - family: hannomgothic
+      fonts:
+        - asset: ../assets/fonts/han-nom-gothic.otf
+    - family: hannomkhai
+      fonts:
+        - asset: ../assets/fonts/han-nom-khai.ttf
+    - family: hannomminh
+      fonts:
+        - asset: ../assets/fonts/han-nom-minh.ttf
