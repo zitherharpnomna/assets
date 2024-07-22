@@ -24,7 +24,7 @@ flutter:
         - asset: fonts/han-nom-gothic.otf
     - family: hannomkhai
       fonts:
-        - asset: fonts/han-nom-khai.ttf
+        - asset: fonts/han-nom-khai.otf
     - family: hannomminh
       fonts:
         - asset: fonts/han-nom-minh.ttf
