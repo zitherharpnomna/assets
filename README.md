@@ -12,4 +12,4 @@
 |![genealogy](icons/burgundy.png)|Nomna Genealogy|Nomna Gia phả
 |![keyboard](icons/green.png)|Nomna Keyboard|Nomna Bàn phím
 |![maps](icons/pink.png)|Nomna Maps|Nomna Bản đồ
-|![translate](icons/aqua.png)|Nomna Translate|Nomna Phiên dịch
+|![translate](icons/blue.png)|Nomna Translate|Nomna Phiên dịch
