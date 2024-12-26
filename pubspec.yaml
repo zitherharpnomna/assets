@@ -16,3 +16,15 @@ flutter:
     - family: NomNaTong
       fonts:
         - asset: fonts/NomNaTong/NomNaTong-Regular.otf
+    # - family: HanNomGothic
+    #   fonts:
+    #     - asset: fonts/HanNom/HanNomGothic.otf
+    # - family: HanNomMinh
+    #   fonts:
+    #     - asset: fonts/HanNom/HanNomMinh.ttf
+    # - family: HanNomKhai
+    #   fonts:
+    #     - asset: fonts/HanNom/HanNomKhai.otf
+    # - family: MiSansL3
+    #   fonts:
+    #     - asset: fonts/MiSansL3/MiSansL3.otf
