@@ -4,6 +4,7 @@
 |Biểu tượng|Tên quốc tế|Tên bản địa|
 |-|-|-
 |![calendar](icons/red.png)|Nomna Calendar|Nomna Lịch biểu
+|![contribute](icons/red.png)|Nomna Contribute|Nomna Đóng góp
 |![culture](icons/black.png)|Nomna Culture|Nomna Văn hóa
 |![dictionary](icons/gold.png)|Nomna Dictionary|Nomna Từ điển
 |![extension](icons/indigo.png)|Nomna Extension|Nomna Tiện ích
@@ -12,5 +13,5 @@
 |![genealogy](icons/burgundy.png)|Nomna Genealogy|Nomna Gia phả
 |![keyboard](icons/green.png)|Nomna Keyboard|Nomna Bàn phím
 |![maps](icons/brown.png)|Nomna Maps|Nomna Bản đồ
-|![prompt](icons/pink.png)|Nomna Prompt|Nomna Bản đồ
+|![prompt](icons/pink.png)|Nomna Prompt|Nomna Câu lệnh
 |![translate](icons/blue.png)|Nomna Translate|Nomna Phiên dịch
