@@ -1,17 +1,24 @@
-# Zither Harp Nomna: Assets
+# Nomna Assets
 
-## Dự án
-|Biểu tượng|Tên quốc tế|Tên bản địa|
-|-|-|-
-|![calendar](icons/red.png)|Nomna Calendar|Nomna Lịch biểu
-|![contribute](icons/red.png)|Nomna Contribute|Nomna Đóng góp
-|![culture](icons/black.png)|Nomna Culture|Nomna Văn hóa
-|![dictionary](icons/gold.png)|Nomna Dictionary|Nomna Từ điển
-|![extension](icons/indigo.png)|Nomna Extension|Nomna Tiện ích
-|![fonts](icons/rose.png)|Nomna Fonts|Nomna Phông chữ
-|![gaming](icons/grey.png)|Nomna Gaming|Nomna Trò chơi
-|![genealogy](icons/burgundy.png)|Nomna Genealogy|Nomna Gia phả
-|![keyboard](icons/green.png)|Nomna Keyboard|Nomna Bàn phím
-|![maps](icons/brown.png)|Nomna Maps|Nomna Bản đồ
-|![prompt](icons/pink.png)|Nomna Prompt|Nomna Câu lệnh
-|![translate](icons/blue.png)|Nomna Translate|Nomna Phiên dịch
+## Project
+Color|Name|Localized name|Android
+-|-|-|-
+-|Nomna Books|Nomna Sách|-
+-|Nomna Browser|Nomna Trình duyệt|-
+-|Nomna Calendar|Nomna Lịch biểu|-
+-|Nomna Calligraphy|Nomna Thư pháp|- 
+-|Nomna Contribute|Nomna Đóng góp|-
+-|Nomna Culture|Nomna Văn hóa|-
+-|Nomna Dictionary|Nomna Từ điển|-
+-|Nomna Extension|Nomna Tiện ích|-
+#feafc7|Nomna Fonts|Nomna Phông chữ|[Download](https://play.google.com/store/apps/details?id=com.zitherharp.nomna.fonts)
+-|Nomna Gaming|Nomna Trò chơi|-
+-|Nomna Genealogy|Nomna Gia phả|-
+-|Nomna Keyboard|Nomna Bàn phím|-
+-|Nomna Learning|Nomna Học tập|-
+-|Nomna Maps|Nomna Bản đồ|-
+-|Nomna Music|Nomna Âm nhạc|-
+-|Nomna Prompt|Nomna Câu lệnh|-
+-|Nomna Search|Nomna Tìm kiếm|-
+-|Nomna Sponsor|Nomna Tài trợ|-
+#00a8f3|Nomna Translate|Nomna Phiên dịch|[Download](https://play.google.com/store/apps/details?id=com.zitherharp.nomna.translate)
